@@ -15,7 +15,7 @@ Neste processo eu aprendi:
 
 ## REGRAS DO DESAFIO
 - [ ] Realizar um fork do repositório do desafio
-- [ ] Otimizar o método de leitura
+- [ ] Otimizar os métodos (Principalmente os de leitura)
 - [ ] Obter uma resposta de leitura em menos de 200ms
 
 ## Sobre o Caça aos Bugs
